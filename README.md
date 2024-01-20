@@ -1,7 +1,8 @@
 
 # Jogo do número secreto
 
-O jogo gera números secretos e o jogador deve  acertar qual é o número secreto
+<h2>Acerte o número secreto com o menor número de tentativas possível. 
+  Você aceita esse desafio?</h2>
 
 
 ## Aprendizados
